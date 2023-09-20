@@ -1,6 +1,5 @@
 # Andriod-Huawei-Bluetooth-Based-Chat-App
 
-# Introduction
 This chat application shows an example use case of Nearby Connection in React Native HMS Nearby Service Plugin.
 
 # Note
