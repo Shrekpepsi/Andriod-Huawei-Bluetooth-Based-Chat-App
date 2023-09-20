@@ -41,7 +41,7 @@ Phone 1 Broadcaster           |  Phone 2 Scanner
 ![InitialScreen](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/1a4034d1-02a2-4133-a3c1-fc5cebf6a2d6) | ![InitialScreen (1)](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/49ada43c-bf03-47f8-a2f2-4022d827780e)
 ![ScanningBroadcasting](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/a413abe4-6592-438c-b9dd-6e7eece91bdc) | ![ScanningBroadcasting (1)](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/557b89f7-a75f-4b1e-9296-6d1857d69104)
 ![BroadcastAuth](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/0753b848-c15e-40d3-81a6-e5956ae5a5b2) | ![ScanResult](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/2f072f17-d81d-4178-944b-546f4209e803)
-                                                                                                                                              |  ![ScanAuth](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/d8881732-a9ca-42a0-9e5c-1b1a94c34ba0)
+                                                                                                                                              | ![ScanAuth](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/d8881732-a9ca-42a0-9e5c-1b1a94c34ba0)
 ![ChatBroadcast](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/94022dce-9fcd-47ce-95ea-2b08db983613) |  ![ChatScan](https://github.com/Shrekpepsi/Andriod-Huawei-Bluetooth-Based-Chat-App/assets/107950320/7173538a-fd40-4a04-b283-db10d7c53a8a)
 
 
