@@ -1,4 +1,4 @@
-# Andriod-Huawei-Bluetooth-Based-Chat-App
+# Near-By Andriod-Huawei-Bluetooth-Based-Chat-App
 
 This chat application uses React Native HMS Nearby Service Plugin.
 
