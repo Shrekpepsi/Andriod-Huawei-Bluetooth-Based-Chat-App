@@ -5,7 +5,7 @@ This chat application uses React Native HMS Nearby Service Plugin.
 # Note
 You need 2 HMSCore APK installed phones to test this app. This application is tested on Huawei Y9 Prime and Huawei Y6.
 
-# How to Run ❓
+# How to Run❓
 Clone the code or download the zip file and then install the dependencies using command below.
 
     npm i 
