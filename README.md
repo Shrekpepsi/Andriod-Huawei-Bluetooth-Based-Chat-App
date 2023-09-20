@@ -1,9 +1,9 @@
 # Andriod-Huawei-Bluetooth-Based-Chat-App
 
-This chat application shows an example use case of Nearby Connection in React Native HMS Nearby Service Plugin.
+This chat application uses React Native HMS Nearby Service Plugin.
 
 # Note
-You need 2 HMSCore APK installed phones to test this app. This application is tested on Huawei P30 Lite and Huawei Y6.
+You need 2 HMSCore APK installed phones to test this app. This application is tested on Huawei Y9 Prime and Huawei Y6.
 
 # How to Run ?
 Clone the code or download the zip file and then install the dependencies using command below.
@@ -14,11 +14,10 @@ Put your agconnect-services.json and keystore_file.jks under android > app direc
 
 Then fill the android > app > build.gradle file as given below.
 
-defaultConfig {
-    applicationId "<package_name>"  // your package name in agconnect-services.json
-    ...
-}
-
+    defaultConfig {
+           applicationId "<package_name>"  // your package name in agconnect-services.json
+            ...
+             }
     signingConfigs {
        config {
         storeFile file('<keystore_file>.jks') // your keystore filename
