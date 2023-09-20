@@ -14,7 +14,7 @@ Put your agconnect-services.json and keystore_file.jks under android > app direc
 
 Then fill the android > app > build.gradle file as given below.
 
-    defaultConfig {
+     defaultConfig {
            applicationId "<package_name>"  // your package name in agconnect-services.json
             ...
              }
