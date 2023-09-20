@@ -32,3 +32,14 @@ Then fill the android > app > build.gradle file as given below.
 # Run the application
 
     npx react-native run-android
+
+
+## Screenshots
+
+Phone 1 Broadcaster           |  Phone 2 Scanner
+:-------------------------:|:-------------------------:
+<img src=".docs/InitialScreen.png" width="200" height="400" /> | <img src=".docs/InitialScreen.png" width="200" height="400" />
+<img src=".docs/ScanningBroadcasting.png" width="200" height="400" />| <img src=".docs/ScanningBroadcasting.png" width="200" height="400" />
+<img src=".docs/BroadcastAuth.png" width="200" height="400" /> | <img src=".docs/ScanResult.png" width="200" height="400" />
+|| <img src=".docs/ScanAuth.png" width="200" height="400" />
+<img src=".docs/ChatBroadcast.png" width="200" height="400" /> | <img src=".docs/ChatScan.png" width="200" height="400">
