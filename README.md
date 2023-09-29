@@ -67,7 +67,8 @@ If everything is set up correctly, you should see your new app running in your A
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 Now what?
-If you want to add this new React Native code to an existing application, check out the Integration guide.
+If you want to add this new React Native code to an existing application, check out the https://reactnative.dev/docs/integration-with-existing-apps guide.
+
 If you're curious to learn more about React Native, check out the Introduction to React Native.
 Troubleshooting
 If you can't get this to work, see the Troubleshooting page.
