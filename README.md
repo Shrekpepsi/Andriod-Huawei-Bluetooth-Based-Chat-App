@@ -1,5 +1,5 @@
 
-![hms-react-native-plugin](https://github.com/Shrekpepsi/Near-By-Chat/assets/107950320/2c62705e-d8f5-475e-8645-1434c7d6ded6)
+![Near-By-Chat](https://github.com/Shrekpepsi/Near-By-Chat/assets/107950320/1f6f4e23-2acb-47d3-9442-5cf318b7170f)
 
 # Andriod-Huawei-Bluetooth-Based-Chat-App 
 
