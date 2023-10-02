@@ -1,5 +1,4 @@
-
-![Near-By-Chat](https://github.com/Shrekpepsi/Near-By-Chat/assets/107950320/1f6f4e23-2acb-47d3-9442-5cf318b7170f)
+![1_MSll78U-Rksm5ojGw7RKRg](https://github.com/Shrekpepsi/Near-By-Chat/assets/107950320/ee6e39cb-f87c-4c1d-9dc2-da85fd1f1166)
 
 # Andriod-Huawei-Bluetooth-Based-Chat-App 
 
